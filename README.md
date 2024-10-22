@@ -38,7 +38,7 @@ Halle has some cool moves but nobody to play with. Let's build our own game usin
 If Runtime is not already installed, then you can install it manually. To do so, open a new bash terminal. Then in the terminal, enter the following commands in order (one at a time):
 
 - `cd projects`
-- `git clone https://github.com/operationspark/runtime`
+- `git clone https://github.com/jgarro-MrG/runtime.git`
 - `cd runtime`
 - `rm -rf .git*`
 - `npm install -g bower`
